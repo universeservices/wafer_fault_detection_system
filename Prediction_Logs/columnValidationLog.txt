@@ -28,3 +28,15 @@
 2022-11-23/20:26:11		Column Length Validation Completed!!
 2022-11-23/22:14:54		Column Length Validation Started!!
 2022-11-23/22:14:55		Column Length Validation Completed!!
+2022-12-14/10:04:37		Column Length Validation Started!!
+2022-12-14/10:04:40		Column Length Validation Completed!!
+2023-01-11/13:33:55		Column Length Validation Started!!
+2023-01-11/13:33:59		Column Length Validation Completed!!
+2023-01-11/15:02:38		Column Length Validation Started!!
+2023-01-11/15:02:39		Column Length Validation Completed!!
+2023-02-08/10:00:05		Column Length Validation Started!!
+2023-02-08/10:00:08		Column Length Validation Completed!!
+2023-04-02/15:16:06		Column Length Validation Started!!
+2023-04-02/15:16:08		Column Length Validation Completed!!
+2023-04-02/19:19:17		Column Length Validation Started!!
+2023-04-02/19:19:22		Column Length Validation Completed!!
